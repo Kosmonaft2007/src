@@ -14,7 +14,7 @@ git config --global user.name "Kosmonaft36"
 git config --global user.email kosmonaft2007@ya.ru
 
  1) Шаг 1 
- - git config --list // провенка на наличие внесыннх данные, с конца 5 и 6 строчка 
+ - git config --list // проверка на наличие внесыннх данные, с конца 5 и 6 строчка 
  2) Шаг 2
  - git remote add origin https://github.com/Kosmonaft2007/GeekBrains1.git 
  //ссылка с репозитория 
