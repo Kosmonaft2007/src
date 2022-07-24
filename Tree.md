@@ -3,4 +3,5 @@
 - git branch <name_branch> // создание новой ветки 
 - git checkout <name_branch> //  переход между ветками
 - git merge <name_branch>  // обьединение с родительской веткой 
+- git log --graph //посмотреть дерево комитов 
 - git branch -b <name_branch> // удаление ветки 
