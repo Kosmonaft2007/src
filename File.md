@@ -1,8 +1,11 @@
 -
-sudo cd /путь файла 
+sudo cd /путь файла
+
+// очистить терминал 
+    clear
 
 // Сохранить изменения в файле 
-1)command + S
+1) command + S
 2) git add <name_file>
 3) git commit -m "_"
 

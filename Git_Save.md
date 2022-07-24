@@ -15,6 +15,10 @@
 4)
 - git log //вывести все комиты 
 - git log --oneline //вывести все комиты 
+
+-  git log graph //в ?????
+
+
 - git diff
 
 - git stash 
